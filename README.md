@@ -12,7 +12,7 @@ EL FUNCIONAMIENTO DEL JUEGO DEL AMIGO SECRETO
 ![Amigo secreto 2](https://github.com/user-attachments/assets/a5dad824-aedf-455f-945f-6fcafc0b24c8)
 
 
--El juego valida solo nombres cualer otro caracter sera invalido: 
+-El juego valida solo nombres cualquier otro caracter sera invalido: 
 
 
 ![Amigo secreto 3](https://github.com/user-attachments/assets/a40e42b9-0618-4560-a867-494ece586b97)
